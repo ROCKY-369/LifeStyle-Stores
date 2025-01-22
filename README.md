@@ -3,10 +3,15 @@ This project deals with developing website that’s show about  products availab
 It provides the user with a catalog of different types of products available for purchase in online shopping sites. 
 The Life style web page is developed to allow consumer to know all about the products available at reasonable prices and the best product before going to buy it and also to view different types of products in one site. 
 This page provides different products that you can see and buy it.And you should signup to that page before logging in.So you can buy things you need.
+
 HTML - Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript it forms a triad of cornerstone technologies for the World Wide Web.
+
 CSS - Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.
+
 Bootstrap - Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+
 PHP - PHP is an intuitive, server-side scripting language. Like any other scripting language, it allows developers to build logic into the creation of web page content and handle data returned from a web browser.
+
 SQL - Structured Query Language(SQL) consists of a data definition language, data manipulation language, and data control language. The scope of SQL includes data insert, query, update and delete, schema creation and modification, and data access control.
 
 LINKING BOOTSTRAP TO HTML  
