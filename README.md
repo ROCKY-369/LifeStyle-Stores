@@ -40,8 +40,11 @@ Step 5: After all that process, link it to HTML page. Like follow
 </html> 
 
 CREATING SQL  
-Step 1: Creating Database  ![image](https://github.com/user-attachments/assets/5e6450b0-f355-442b-81f3-088fddce1937)
+Step 1: Creating Database
+![image](https://github.com/user-attachments/assets/5e6450b0-f355-442b-81f3-088fddce1937)
 
-Step 2: After creating database,import sql file in that database ![image](https://github.com/user-attachments/assets/3454ee54-8e1e-4888-876d-91331d36f297)
+Step 2: After creating database,import sql file in that database 
+![image](https://github.com/user-attachments/assets/3454ee54-8e1e-4888-876d-91331d36f297)
 
-Step 3: Then, assign values to table  ![image](https://github.com/user-attachments/assets/70f26299-e029-4b07-a5cd-a83ddfcd60d5)
+Step 3: Then, assign values to table 
+![image](https://github.com/user-attachments/assets/70f26299-e029-4b07-a5cd-a83ddfcd60d5)
